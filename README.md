@@ -1,2 +1,3 @@
 # Bouncy-Ball-2.0
 Improved. Now is close the real life a bit...
+Also there's X and Y axis.
